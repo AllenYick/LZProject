@@ -1,0 +1,25 @@
+<RCC>
+  <qresource prefix="/">
+    <file>resource/hardware.jpg</file>
+    <file>resource/Jpeg.png</file>
+    <file>resource/jpeg File.png</file>
+    <file>resource/import.png</file>
+    <file>resource/info (2).png</file>
+    <file>resource/minus.png</file>
+    <file>resource/user.png</file>
+    <file>resource/help.png</file>
+    <file>resource/cancel.png</file>
+    <file>resource/open-file.png</file>
+    <file>resource/pic.bmp</file>
+    <file>resource/add.png</file>
+    <file>resource/collectstatus1.png</file>
+    <file>resource/refresh.png</file>
+    <file>resource/collectstatus1_2.png</file>
+    <file>resource/cross.png</file>
+    <file>resource/icon.png</file>
+    <file>resource/lightinhole.png</file>
+    <file>resource/lightouthole.png</file>
+    <file>resource/lightpreinhole.png</file>
+    <file>resource/ok.png</file>
+  </qresource>
+</RCC>
